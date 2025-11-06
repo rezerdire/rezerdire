@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezerdire" alt="rezerdire" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on Personal Projects
 
-- 🌱 I’m currently learning **REACT, VUE, AND LIVEWIRE**
-
+- 🌱 I’m currently learning TALL STACK
+  
 - 👨‍💻 All of my projects are available at [https://chan-portfolio-inky.vercel.app](https://chan-portfolio-inky.vercel.app)
 
 - 📫 How to reach me **vacaro.267597@gmail.com**
