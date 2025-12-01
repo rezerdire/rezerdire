@@ -7,7 +7,7 @@
 
   <li>I’m currently learning TALL STACK </li> 
   
- <li>All of my projects are available at [Christian](https://chan-portfolio-inky.vercel.app)</li> 
+ All of my projects are available at [Christian](https://chan-portfolio-inky.vercel.app)
 
  <li>How to reach me vacaro.267597@gmail.com</li> 
 
