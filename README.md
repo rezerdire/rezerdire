@@ -7,7 +7,7 @@
 
  🌱 I’m currently learning TALL STACK
   
- 👨‍💻 All of my projects are available at Christian(https://chan-portfolio-inky.vercel.app)
+ 👨‍💻 All of my projects are available at [Christian](https://chan-portfolio-inky.vercel.app)
 
  📫 How to reach me vacaro.267597@gmail.com
 
