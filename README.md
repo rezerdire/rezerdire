@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A Cooked Developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezerdire&label=Profile%20views&color=0e75b6&style=flat" alt="rezerdire" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezerdire" alt="rezerdire" /></a> </p>
 
-- 🔭 I’m currently working on Personal Projects
+ 🔭 I’m currently working on Personal Projects
 
-- 🌱 I’m currently learning TALL STACK
+ 🌱 I’m currently learning TALL STACK
   
-- 👨‍💻 All of my projects are available at [https://chan-portfolio-inky.vercel.app](https://chan-portfolio-inky.vercel.app)
+ 👨‍💻 All of my projects are available at [https://chan-portfolio-inky.vercel.app](https://chan-portfolio-inky.vercel.app)
 
-- 📫 How to reach me **vacaro.267597@gmail.com**
+ 📫 How to reach me **vacaro.267597@gmail.com**
 
-- ⚡ Fun fact **I'm Cooked**
+ ⚡ Fun fact **I'm Cooked**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
