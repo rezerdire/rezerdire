@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href = "https://chan-portfolio-inky.vercel.app"> Christian </a></h1>
+<h1 align="center">Hi 👋, I'm <a href = "https://chan-portfolio-inky.vercel.app">Christian </a></h1>
 <h3 align="center">A Cooked Developer from Philippines</h3>
 
 
@@ -7,11 +7,11 @@
 
  🌱 I’m currently learning TALL STACK
   
- 👨‍💻 All of my projects are available at [https://chan-portfolio-inky.vercel.app](https://chan-portfolio-inky.vercel.app)
+ 👨‍💻 All of my projects are available at Christian(https://chan-portfolio-inky.vercel.app)
 
- 📫 How to reach me **vacaro.267597@gmail.com**
+ 📫 How to reach me vacaro.267597@gmail.com
 
- ⚡ Fun fact **I'm Cooked**
+ ⚡ Fun fact I'm Cooked
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
