@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-Kinda Interested in Machine Learning and other LLMs
+Kinda Interested in Machine Learning
 </p>
 
 <pre align="center">
