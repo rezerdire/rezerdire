@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  I LIKE BUILDING WEB TYPE OF SHI 
+Kinda Interested in Machine Learning and other LLMs
 </p>
 
 <pre align="center">
