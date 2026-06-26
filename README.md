@@ -2,13 +2,6 @@
   Hi, I'm <a href="https://chan-portfolio-inky.vercel.app">Christian</a> 👋
 </h1>
 
-<h3 align="center">
-  Full-Stack Developer • Laravel • React • PHP
-</h3>
-
-<p align="center">
-Kinda Interested in Machine Learning
-</p>
 
 <pre align="center">
 ⠀⠀⢀⠤⣂⣤⣬⣭⣭⣭⣔⡠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
