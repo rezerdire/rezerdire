@@ -1,5 +1,5 @@
 <h1 align="center">
-  what the <a href="https://chan-portfolio-inky.vercel.app">helly </a>
+  CLICK <a href="https://chan-portfolio-inky.vercel.app">HERE BOI</a>
 </h1>
 
 
